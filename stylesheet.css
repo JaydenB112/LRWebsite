@@ -1,0 +1,36 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+.navbar{
+    display: flex;
+    flex-direction:row ;
+    justify-content:space-around ;
+    border: 2px solid gold;
+}
+
+.hero-house{
+    display: flex;
+    justify-content: center;
+    padding: 125px;
+    margin:0%;
+    
+}
+
+body{
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   background-color: black;
+   color: gold;
+}
+
+.AboutUs{
+    display: flex;
+    justify-content: center;
+}
+
+.article{
+    display:flex;
+    justify-content: center;
+
+}
